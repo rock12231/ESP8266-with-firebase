@@ -1,7 +1,7 @@
 # ESP8266-with-firebase
-ESP8266 with firebase live weather forecast 
+ArduINO code on esp8266 - 01 and nodeMCU
 
-## update dark mode and light mode 
-[YouTube](https://www.youtube.com/watch?v=9LZGB3OLXNQ&t=14s)
+
+
 
 
