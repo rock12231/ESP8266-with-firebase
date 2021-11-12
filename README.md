@@ -5,4 +5,4 @@ ESP8266 with firebase live weather forecast
 [YouTube](https://www.youtube.com/watch?v=9LZGB3OLXNQ&t=14s)
 
 
-website >>>> www.wf.coold.in
+website >>>> wf.coold.in
